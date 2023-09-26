@@ -1,10 +1,7 @@
 %----------------------------------------------------------------
 %       FUZZY SYSTEMS & EVOLUTIONARY COMPUTATION
-%       Summer 2022-2023
 %       function y=gauss_MF(x,m,sigma)
-%       This function provides the gaussian membership function,
-%       according to the specifications given in the SECOND PROJECT
-%       Author: Prof.Paris Mastorocostas
+%       This function provides the gaussian membership function
 %----------------------------------------------------------------
 
 function y=gauss_MF(x,m,sigma)
