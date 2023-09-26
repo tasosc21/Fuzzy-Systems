@@ -2,7 +2,6 @@
 %       function [Alpha,Beta,Gamma]=tri_MF_partition(low,high,n,g)
 %       This function partitions the input space to the
 %       triangular membership functions
-%       Author: Prof. Paris Mastorocostas
 %------------------------------------------------------------------
 
 function [Alpha,Beta,Gamma]=tri_MF_partition(low,high,n,g)
