@@ -1,10 +1,7 @@
 %----------------------------------------------------------------
 %       FUZZY SYSTEMS & EVOLUTIONARY COMPUTATION
-%       Summer 2020-2021
 %       function y=trap_MF(x,a,b,c,d)
-%       This function provides the trapezoidal membership function,
-%       according to the specifications given in the THIRD PROJECT
-%       Author: Prof.Paris Mastorocostas
+%       This function provides the trapezoidal membership function
 %----------------------------------------------------------------
 
 function y=trap_MF(x,a,b,c,d)
