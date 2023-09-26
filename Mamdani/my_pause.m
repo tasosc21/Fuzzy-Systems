@@ -1,6 +1,5 @@
 %------------------------------------------------------------------
 %       function my_pause(action)
-%       Author: Dr.Paris Mastorocostas
 %------------------------------------------------------------------
 
 function my_pause(action)
