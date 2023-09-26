@@ -1,10 +1,7 @@
 %----------------------------------------------------------------
 %       FUZZY SYSTEMS & EVOLUTIONARY COMPUTATION
-%       Summer 2022-2023
 %       function y=tri_MF(x,a,b,c)
-%       This function provides the triangular membership function,
-%       according to the specifications given in the THIRD PROJECT
-%       Author: Prof.Paris Mastorocostas
+%       This function provides the triangular membership function
 %----------------------------------------------------------------
 
 function y=tri_MF(x,a,b,c)
