@@ -1,7 +1,6 @@
 %------------------------------------------------------------------
 %       function y=tri_MF(x,a,b,c)
 %       This function provides the triangular membership function
-%       Author: Dr.Paris Mastorocostas
 %------------------------------------------------------------------
 
 function y=tri_MF(x,a,b,c)
